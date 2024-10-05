@@ -1,16 +1,13 @@
 # shoes_store
 
-A new Flutter project.
+## Preview
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screenshot - XR15 - 2024-10-05 at 14 56 16](https://github.com/user-attachments/assets/af467402-a02a-4627-ad07-81357f738c44)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screenshot - XR15 - 2024-10-05 at 14 54 17](https://github.com/user-attachments/assets/8138ac0a-dbda-4188-acc8-9add602648d6)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - XR15 - 2024-10-05 at 14 54 32](https://github.com/user-attachments/assets/c9fea1a4-8a47-4654-a357-133861632309)
+
+![Simulator Screenshot - XR15 - 2024-10-05 at 14 54 36](https://github.com/user-attachments/assets/77e03f42-2020-4930-8bdf-4011214c9bd1)
